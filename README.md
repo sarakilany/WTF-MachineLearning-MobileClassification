@@ -1,6 +1,5 @@
-# Women Techsters Fellowship-MachineLearning-MobileClassification
+# Women Techsters Fellowship-Machine Learning-Mobile Classification
 
-# Machine Learning Project- Mobile Classification
 ## by Sara Osama Kilany
 
 
