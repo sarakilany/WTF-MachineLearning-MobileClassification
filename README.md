@@ -1,4 +1,4 @@
-# WTF-MachineLearning-MobileClassification
+# Women Techsters Fellowship-MachineLearning-MobileClassification
 
 # Machine Learning Project- Mobile Classification
 ## by Sara Osama Kilany
